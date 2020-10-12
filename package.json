@@ -1,0 +1,27 @@
+{
+  "name": "happy",
+  "version": "1.0.0",
+  "description": "Plataforma que conecta pessoas e orfanatos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaeldiehl/happy.git"
+  },
+  "keywords": [
+    "happy",
+    "crianças",
+    "orfanatos",
+    "react",
+    "typescript",
+    "node"
+  ],
+  "author": "Rafael Juliani Diehl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaeldiehl/happy/issues"
+  },
+  "homepage": "https://github.com/rafaeldiehl/happy#readme"
+}
