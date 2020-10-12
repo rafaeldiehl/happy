@@ -1,6 +1,6 @@
 <div align="center">
     
-<h1><img src="./.github/logo.png" alt="Happy" width="250"></h1>
+<h1><img src="./.github/logo-happy.png" alt="Happy" width="250"></h1>
     
 <h3>Leve felicidade para o mundo</h3>
 
@@ -18,7 +18,7 @@
 
 </p>
 
-<img src="./.github/landing-page.png" alt="Exemplo de tela">
+<img src="./.github/landing.png" alt="Exemplo de tela">
 </div>
 
 ## :rocket: Sobre
