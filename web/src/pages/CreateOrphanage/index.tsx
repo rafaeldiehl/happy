@@ -13,7 +13,6 @@ export default function CreateOrphanage() {
   return (
     <div id="page-create-orphanage">
       <SideBar />
-
       <main>
         <form className="create-orphanage-form">
           <fieldset>

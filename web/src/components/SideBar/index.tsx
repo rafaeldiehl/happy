@@ -7,7 +7,6 @@ import './styles.css';
 
 export default function SideBar() {
   const { goBack } = useHistory();
-
   return (
     <aside className="app-sidebar">
         <img src={mapMarkerImg} alt="Happy" />
